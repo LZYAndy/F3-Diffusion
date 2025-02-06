@@ -1,0 +1,14 @@
+near
+far
+serve
+return
+stroke
+fh
+bh
+gs
+slice
+volley
+smash
+drop
+lob
+approach
